@@ -1,0 +1,16 @@
+body {
+    background-color: orangered;
+   
+}
+h1 {
+    text-align: center;
+}
+.sidebar {
+    text-align: center;
+    float: left;
+    width: 30%;
+}
+#width {
+    width:1500px;
+    text-align: center;
+}
